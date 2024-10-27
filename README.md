@@ -3,8 +3,6 @@
 
 This project performs toxic comment classification using a fine-tuned BERT model. It identifies and categorizes text data into "toxic" or "non-toxic" classes. The model is trained and evaluated on a dataset containing text labeled with toxic and non-toxic comments, using PyTorch and Hugging Face Transformers in a Google Colab environment.
 
-![Confusion Matrix](path_to_your_confusion_matrix_image.png)  
-*Confusion Matrix of the Model’s Performance*
 
 ## Table of Contents
 
@@ -15,7 +13,7 @@ This project performs toxic comment classification using a fine-tuned BERT model
 - [Training and Evaluation](#training-and-evaluation)
 - [Usage](#usage)
 - [Results](#results)
-- [License](#license)
+
 
 ## Overview
 
